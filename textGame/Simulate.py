@@ -1,7 +1,8 @@
 import time
 
-from src.Agent import Agent
-from src.Word import World
+from textGame.Agent import Agent
+from textGame.Word import World
+
 class Simulate:
     def exibir_mapa_ascii(posicao_atual):
         mapa = {

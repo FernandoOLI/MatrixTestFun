@@ -1,4 +1,4 @@
-from src.Room import Room
+from textGame.Room import Room
 
 
 class World:
